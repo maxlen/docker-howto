@@ -1,0 +1,24 @@
+total 76K
+drwxr-xr-x   1 root root 4.0K Feb  3 08:04 .
+drwxr-xr-x   1 root root 4.0K Feb  3 08:04 ..
+-rwxr-xr-x   1 root root    0 Feb  3 08:04 .dockerenv
+drwxr-xr-x   2 root root 4.0K Dec  2 12:43 bin
+drwxr-xr-x   2 root root 4.0K Apr 24  2018 boot
+drwxr-xr-x   5 root root  340 Feb  3 08:04 dev
+drwxr-xr-x   1 root root 4.0K Feb  3 08:04 etc
+drwxr-xr-x   2 root root 4.0K Apr 24  2018 home
+drwxr-xr-x   8 root root 4.0K May 23  2017 lib
+drwxr-xr-x   2 root root 4.0K Dec  2 12:43 lib64
+drwxr-xr-x   2 root root 4.0K Dec  2 12:43 media
+drwxr-xr-x   2 root root 4.0K Dec  2 12:43 mnt
+drwxrwxr-x   2 1000 1000 4.0K Feb  3 08:04 myvol
+drwxr-xr-x   2 root root 4.0K Dec  2 12:43 opt
+dr-xr-xr-x 447 root root    0 Feb  3 08:04 proc
+drwx------   2 root root 4.0K Dec  2 12:43 root
+drwxr-xr-x   1 root root 4.0K Dec 19 04:21 run
+drwxr-xr-x   1 root root 4.0K Dec 19 04:21 sbin
+drwxr-xr-x   2 root root 4.0K Dec  2 12:43 srv
+dr-xr-xr-x  13 root root    0 Feb  3 08:04 sys
+drwxrwxrwt   2 root root 4.0K Dec  2 12:43 tmp
+drwxr-xr-x   1 root root 4.0K Dec  2 12:43 usr
+drwxr-xr-x   1 root root 4.0K Dec  2 12:43 var

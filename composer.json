@@ -1,0 +1,15 @@
+{
+    "name": "maxlen/udemy-docker-howto",
+    "type": "project",
+    "description": "Docker, Dockerfile, and Docker-Compose (2020 ready!) Learn Docker, Containers vs. Images, Dockerfile, Docker-Compose -- With Practical Hands-On Exercises.",
+    "keywords": [
+        "docker",
+        "docker-compose",
+        "udemy",
+        "learn docker",
+        "free course"
+        "maxlen",
+        "ml"
+    ],
+    "license": "MIT"
+}

@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  app-httpd:
+    image: httpd:latest
+    container_name: app-httpd
+    ports:
+      - "8089:80"
+    networks:
+      - app-network
+
+networks:
+  app-network:
