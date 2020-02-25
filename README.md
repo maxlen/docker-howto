@@ -1,11 +1,14 @@
-# udemy-docker
+# HowTo Docker
 
 Docker, Dockerfile, and Docker-Compose (2020 ready!)
-Learn Docker, Containers vs. Images, Dockerfile, Docker-Compose -- With Practical Hands-On Exercises.
+
+Learn Docker, Containers vs. Images, Dockerfile, Docker-Compose
+
+With Practical Hands-On Exercises!
 
 ![Scheme](./docker-logo.png)
 
-### Course (video)
+### based on video-course
 https://www.udemy.com/course/docker-and-docker-compose-hands-on-by-example/
 
 Thomas Wiesner. Teaching over 60,000 Students about Development (https://www.facebook.com/tomscourses/)
