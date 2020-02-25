@@ -252,3 +252,6 @@ docker run -it --rm -v ${PWD}:/my-files -w /my-files --name php-script php:7.4-c
 #### Done
 
 ![Scheme](./certificate.jpg)
+
+##### whoami
+That git-repository created by Maxim Gavrilenko https://www.linkedin.com/in/maxim-gavrilenko-16693934
