@@ -38,6 +38,9 @@ For example "Quickstart: Compose and WordPress": https://docs.docker.com/compose
 
 or in DocherHub: https://hub.docker.com/_/wordpress
 
+### useful documentation:
+dockerfile best practices: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
 
 
 ### Main commands and features
