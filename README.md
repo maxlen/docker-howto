@@ -43,7 +43,7 @@ dockerfile best practices: https://docs.docker.com/develop/develop-images/docker
 
 
 
-# Fast HowTo for Docker, Dockerfile, and Docker-Compose To
+# Fast HowTo (Docker, Dockerfile, docker-compose)
 
 ## Main commands and features
 
