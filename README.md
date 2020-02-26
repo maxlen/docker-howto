@@ -257,6 +257,8 @@ docker run -it --rm -v ${PWD}:/my-files -w /my-files --name php-script php:7.4-c
    
 #### Done
 
+At the end of course you'll have certificate like that:
+
 ![Scheme](./certificate.jpg)
 
 ##### whoami
