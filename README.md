@@ -135,6 +135,10 @@ docker-compose ps
 
 # stop and remove containers and networks
 docker-compose down
+
+# build images without cache
+docker-compose build --no-cache service1 service2
+
 ```
 
 #### Dockerfile
