@@ -266,4 +266,4 @@ At the end of course you'll have certificate like that:
 ![Scheme](./certificate.jpg)
 
 ##### whoami
-That git-repository created by Maxim Gavrilenko https://www.linkedin.com/in/maxim-gavrilenko-16693934
+That git-repository created by Maxim Gavrilenko https://www.linkedin.com/in/maxim-gavrilenko
